@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:state_checked="false">
+        <vector android:height="24dp" android:width="40dp" android:viewportWidth="40" android:viewportHeight="24">
+            <path android:fillColor="#ff96a3ab" android:pathData="M0 12c0-6.63 5.37-12 12-12h16c6.63 0 12 5.37 12 12v0c0 6.63-5.37 12-12 12h-16c-6.63 0-12-5.37-12-12z"/>
+        </vector>
+    </item>
+    <item android:state_checked="true">
+        <vector android:height="24dp" android:width="40dp" android:viewportWidth="40" android:viewportHeight="24">
+            <path android:fillColor="#ff32be4b" android:pathData="M0 12c0-6.63 5.37-12 12-12h16c6.63 0 12 5.37 12 12v0c0 6.63-5.37 12-12 12h-16c-6.63 0-12-5.37-12-12z"/>
+        </vector>
+    </item>
+</selector>
